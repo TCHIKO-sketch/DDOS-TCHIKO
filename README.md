@@ -7,7 +7,6 @@
 
 
 
-الدي يرد تحصل على هده اداة يتواصل معي في حسابي ديسكورد tchiko_25 
-
+الدي يريد تحصل على هدا بوت ديدوس يتواصل معي في حسابي ديسكورد tchiko_25
 
 ![image alt](https://github.com/TCHIKO-sketch/DDOS-TCHIKO/blob/877d79fceefa91e5aea5f707a48c201076f27fa5/Screenshot_2026-04-03-16-13-16-97_99c04817c0de5652397fc8b56c3b3817.jpg) 
